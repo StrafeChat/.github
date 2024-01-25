@@ -21,4 +21,4 @@ We welcome all contributions as long as you okay it with any of the developers a
 - Twitter - https://twitter.com/strafechat
 - Reddit - https://reddit.com/r/strafechat
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O5O2MEDMO');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2MEDMO)
