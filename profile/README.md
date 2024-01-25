@@ -3,7 +3,7 @@ StrafeChat is a web application focused on no censorship. We believe that people
 opinion, or view should be able to communicate with each other freely.
 
 ### Contributing
-We welcome all contributions as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
+We welcome all contributions as long as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
 
 ### Repos
 | Repo | Description |
