@@ -15,7 +15,7 @@ We welcome all contributions as long as you okay it with any of the developers a
 | [stargate](https://github.com/StrafeChat/stargate) | The websocket server for strafe.chat |
 | [strafe.js](https://github.com/StrafeChat/strafe.js) | The strafe.js library for strafe.chat  |
 | [web.strafe.chat](https://github.com/StrafeChat/web.strafe.chat) | The frontend website for strafe.chat |
-| [strafe.chat](https://github.com/StrafeChat/strafe.chat) | The landing page for strafe.chat |
+| [strafe.chat](https://github.com/StrafeChat/strafe_chat) | The landing page for strafe.chat |
 
 ### Links
 - Website - https://strafe.chat
