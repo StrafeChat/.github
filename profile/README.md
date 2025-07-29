@@ -2,7 +2,7 @@
 StrafeChat is a web application focused on no censorship. We believe that people with any belief,
 opinion, or view should be able to communicate with each other freely.
 
-![image](https://github.com/StrafeChat/.github/assets/67612593/ebba7e23-eb6e-4a58-86c6-2d9806c71d93)
+![image](https://github.com/user-attachments/assets/bff235bb-9a49-4a78-8930-c0a04e3c685b)
 
 ### Contributing
 We welcome all contributions as long as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
