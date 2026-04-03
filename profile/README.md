@@ -1,6 +1,5 @@
-# Strafe Chat
-StrafeChat is a web application focused on no censorship. We believe that people with any belief,
-opinion, or view should be able to communicate with each other freely.
+# Strafe
+Connect with your community on a platform that respects your privacy and freedom. No tracking, no ads, just pure communication.
 
 ![image](https://github.com/user-attachments/assets/bff235bb-9a49-4a78-8930-c0a04e3c685b)
 
@@ -20,7 +19,7 @@ We welcome all contributions as long as you okay it with any of the developers a
 ### Links
 - Website - https://strafe.chat
 - Discord - https://discord.gg/JbVgfWXeKZ
-- Twitter - https://twitter.com/strafechat
+- X - https://x.com/strafechat
 - Reddit - https://reddit.com/r/strafechat
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2MEDMO)
