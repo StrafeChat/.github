@@ -7,7 +7,7 @@ Connect with your community on a platform that respects your privacy and freedom
 We welcome all contributions as long as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
 
 ### Self Host
-Host strafe yourself by checking out the [deploy](https://github.com/StrafeChat/deplopy) repo!
+Host strafe yourself by checking out the [deploy](https://github.com/StrafeChat/deploy) repo!
 
 ### Links
 - Website - https://strafe.chat
