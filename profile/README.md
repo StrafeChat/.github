@@ -6,18 +6,12 @@ Connect with your community on a platform that respects your privacy and freedom
 ### Contributing
 We welcome all contributions as long as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
 
-### Repos
-| Repo | Description |
-| ---- | ----------- |
-| [equinox](https://github.com/StrafeChat/equinox) | The backend API for strafe.chat |
-| [nebula](https://github.com/StrafeChat/nebula) | The file server for strafe.chat |
-| [stargate](https://github.com/StrafeChat/stargate) | The websocket server for strafe.chat |
-| [strafe.js](https://github.com/StrafeChat/strafe.js) | The strafe.js library for strafe.chat  |
-| [web.strafe.chat](https://github.com/StrafeChat/web.strafe.chat) | The frontend website for strafe.chat |
-| [strafe.chat](https://github.com/StrafeChat/strafe_chat) | The landing page for strafe.chat |
+### Self Host
+Host strafe yourself by checking out the [deploy](https://github.com/StrafeChat/deplopy) repo!
 
 ### Links
 - Website - https://strafe.chat
+- Strafe - https://app.strafe.chat/invite/LcXtFjHt
 - Discord - https://discord.gg/JbVgfWXeKZ
 - X - https://x.com/strafechat
 - Reddit - https://reddit.com/r/strafechat
