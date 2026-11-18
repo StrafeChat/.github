@@ -1,7 +1,8 @@
 # Strafe
 Connect with your community on a platform that respects your privacy and freedom. No tracking, no ads, just pure communication.
 
-![image](https://github.com/user-attachments/assets/bff235bb-9a49-4a78-8930-c0a04e3c685b)
+<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/8ec86445-0133-4f03-a1d2-698b04617c61" />
+
 
 ### Contributing
 We welcome all contributions as long as you okay it with any of the developers as they may already be working on this or it is not planned! Make sure you are on the dev branch before making any changes. The dev branch will have all of our newest code.
